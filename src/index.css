@@ -333,26 +333,6 @@ h2 {
     margin-right: auto;
 }
 
-.linkedin {
-    background: url(img/linkedin.png);
-    background-size: 40px 40px;
-}
-
-.instagram {
-    background: url(img/instagram.png);
-    background-size: 40px 40px;
-}
-
-.behance {
-    background: url(img/behance.png);
-    background-size: 40px 40px;
-}
-
-.dribble {
-    background: url(img/dribble.png);
-    background-size: 40px 40px;
-}
-
 .like-me-text {
     margin-top: 50px;
     font-size: 14px;
